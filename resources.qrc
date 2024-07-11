@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/tnm_reader" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
